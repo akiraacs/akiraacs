@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/akiraacs">
-    <img height="180em" src="https://github-readme-stats-vercel-git-main-akiraacs-projects.vercel.app/api?username=akiraacs&show_icons=true&theme=algolia&include_all_commits=true&count_private=trues"/>
-    <img height="180em" src="https://github-readme-stats-vercel-git-main-akiraacs-projects.vercel.app/api/top-langs/?username=akiraacs&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-sigma-dusky.vercel.app/api?username=akiraacs&show_icons=true&theme=algolia&include_all_commits=true&count_private=trues&show="/>
+    <img height="180em" src="https://github-readme-stats-sigma-dusky.vercel.app/api/top-langs/?username=akiraacs&layout=compact&langs_count=7&theme=algolia&show="/>
   </a>
 </div>
 
